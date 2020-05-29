@@ -1,0 +1,11 @@
+{"_id":1,"reparto":1,"medico":1,"data":"29/10/2019","ora":"9:00","paziente":1,"importo":90,"pagato":"SI","tipo_pagamento":"3","medicinali":["cardioAspirin","nutella","pressbass"]}
+{"_id":2,"reparto":2,"medico":1,"data":"20/10/2019","ora":"11:00","paziente":1,"importo":150,"pagato":"SI","tipo_pagamento":"2","medicinali":["congescor","pressalt"]}
+{"_id":3,"reparto":3,"medico":1,"data":"16/06/2021","ora":"9:00","paziente":2,"importo":{"$numberDouble":"NaN"},"pagato":"NO","tipo_pagamento":null,"medicinali":["cardioAspirin","pressbass"]}
+{"_id":4,"reparto":1,"medico":2,"data":"05/11/2019","ora":"14:00","paziente":4,"importo":150,"pagato":"SI","tipo_pagamento":3,"medicinali":""}
+{"_id":5,"reparto":4,"medico":3,"data":"15/11/2019","ora":"15:00","paziente":3,"importo":100,"pagato":"SI","tipo_pagamento":2,"medicinali":["pressalt","pressbass"]}
+{"_id":6,"reparto":1,"medico":4,"data":"20/11/2019","ora":"16:00","paziente":4,"importo":50,"pagato":"NO","tipo_pagamento":"","medicinali":["pressbass"]}
+{"_id":7,"reparto":2,"medico":2,"data":"29/11/2019","ora":"17:00","paziente":4,"importo":130,"pagato":"SI","tipo_pagamento":1,"medicinali":["nutella","forzapiu"]}
+{"_id":8,"reparto":3,"medico":3,"data":"22/11/2019","ora":"18:00","paziente":3,"importo":110,"pagato":"SI","tipo_pagamento":3,"medicinali":["cardioAspirin"]}
+{"_id":10,"reparto":2,"medico":3,"data":"22/02/2020","ora":"18:00","paziente":1,"importo":"","pagato":"NO","tipo_pagamento":"","medicinali":""}
+{"_id":11,"reparto":3,"medico":3,"data":"22/02/2020","ora":"10:00","paziente":1,"importo":"","pagato":"NO","tipo_pagamento":"","medicinali":""}
+{"_id":12,"reparto":4,"medico":4,"data":"20/10/2010","ora":"17:00","paziente":8,"importo":"","pagato":"NO","tipo_pagamento":"","medicinali":""}

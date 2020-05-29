@@ -1,0 +1,13 @@
+{"_id":1,"anno":2015,"ospedale":"Saluzzo","giorni":8,"codUtente":1,"codMedico":1}
+{"_id":2,"anno":2016,"ospedale":"Fossano","giorni":8,"codUtente":1,"codMedico":1}
+{"_id":4,"anno":2010,"ospedale":"Savigliano","giorni":5,"codUtente":2,"codMedico":2}
+{"_id":5,"anno":2012,"ospedale":"Saluzzo","giorni":18,"codUtente":3,"codMedico":2}
+{"_id":6,"anno":2010,"ospedale":"Savigliano","giorni":5,"codUtente":3,"codMedico":3}
+{"_id":7,"anno":2013,"ospedale":"Bra","giorni":2,"codUtente":5,"codMedico":3}
+{"_id":8,"anno":2018,"ospedale":"Savigliano","giorni":5,"codUtente":5,"codMedico":3}
+{"_id":9,"anno":2011,"ospedale":"Saluzzo","giorni":7,"codUtente":6,"codMedico":4}
+{"_id":10,"anno":2014,"ospedale":"Cuneo","giorni":3,"codUtente":7,"codMedico":4}
+{"_id":11,"anno":2015,"ospedale":"Savigliano","giorni":6,"codUtente":8,"codMedico":4}
+{"_id":12,"anno":2010,"ospedale":"Savigliano","giorni":6,"codUtente":8,"codMedico":1}
+{"_id":13,"anno":2010,"ospedale":"Savigliano","giorni":5,"codUtente":8,"codMedico":1}
+{"_id":14,"anno":2020,"ospedale":"Alba","giorni":20,"codUtente":8,"codMedico":1}

@@ -1,0 +1,6 @@
+mkcert - FiloSottile
+
+mkcert.exe -install
+mkcert.exe -CAROOT
+	C:\Users\f.giacardi.0467\AppData\Local\mkcert  
+mkcert.exe -key-file key.pem -cert-file certificate.pem localhost 127.0.0.1 ::1
